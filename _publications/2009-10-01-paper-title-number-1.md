@@ -1,15 +1,14 @@
 ---
 title: "Europe and the United States: On the Fiscal Bank"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/Gokhale-Partin
 date: 2013
 venue: 'Cato Journal'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/Gokhale-Partin.pdf'
 citation: 'Gokhale, J., & Partin, E. (2013). Europe and the United States: On the Fiscal Bank. Cato Journal, 33, 193.'
 ---
-#This paper is about the number 1. The number 2 is left for future work.
+This paper is about the implications of Europe’s economic troubles for America's fiscal outlook.
 
-#[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://epartin.github.io/files/Gokhale-Partin.pdf)
 
 Recommended citation: Gokhale, J., & Partin, E. (2013). Europe and the United States: On the Fiscal Bank. Cato Journal, 33, 193.
