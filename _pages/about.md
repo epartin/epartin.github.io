@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a current PhD student in Economics at American University and conduct research economic policy at a Washington, DC based think tank. My research areas and interests include fiscal policy, aging and long-term care, health economics, Social Security and other social safety net programs, and drug policy.
+I am a current PhD student in Economics at American University and conduct research on economic policy at a Washington, DC based think tank. My research areas and interests include fiscal policy, aging and long-term care, health economics, Social Security and other safety net programs, household bargaining models, agent-based modelling, and drug policy.
