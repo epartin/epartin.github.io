@@ -18,24 +18,31 @@ Education
 
 Work experience
 ======
-* 2012 - 2018: Research Assistant
+* 2012 - present: Research Assistant/Associate
   * Cato Institute
   * Duties included: 
-  * Supervisor: 
-
-* 2018 - present: Research Associate
-  * Cato Institute
-  * Duties included: 
-  * Supervisor: 
+     Collect and synthesize data and background materials for senior scholars
+     Generate figures and regression results for publications
+     Draft and edit blog posts, op-eds, and policy analysis publications
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data analysis
+* Policy analysis
+* Econometrics
+* Coding
+  * R
+  * Python
+  * Stata
+  * SAS
+  * Fortran
+  * LaTex
+* Writing, editing, and communication
+
+Awards and Recognitions
+======
+* 2018-2019: Adam Smith Fellowship, Mercatus Center
+* 2012: Dean's List, University of Rochester
 
 Publications
 ======
