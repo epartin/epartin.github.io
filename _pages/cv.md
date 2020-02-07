@@ -19,9 +19,8 @@ Education
 
 Work experience
 ======
-* 2012 - present: Research Assistant/Associate
-  * Cato Institute
-  * Duties included: 
+* 2012 - present: Research Assistant/Associate, Cato Institute
+  * Duties include: 
      Collect and synthesize data and background materials for senior scholars
      Generate figures and regression results for publications
      Draft and edit blog posts, op-eds, and policy analysis publications
