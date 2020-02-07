@@ -16,6 +16,7 @@ Education
 * M.A. in Economics, American University, 2018
 * Ph.D in Economics, American University, 2021 (expected)
 
+
 Work experience
 ======
 * 2012 - present: Research Assistant/Associate
@@ -24,6 +25,7 @@ Work experience
      Collect and synthesize data and background materials for senior scholars
      Generate figures and regression results for publications
      Draft and edit blog posts, op-eds, and policy analysis publications
+  
   
 Skills
 ======
@@ -39,10 +41,12 @@ Skills
   * LaTex
 * Writing, editing, and communication
 
+
 Awards and Recognitions
 ======
 * 2018-2019: Adam Smith Fellowship, Mercatus Center
 * 2012: Dean's List, University of Rochester
+
 
 Publications
 ======
