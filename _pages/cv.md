@@ -29,6 +29,7 @@ Work experience
 Skills
 ======
 * Data analysis
+* Data visualization
 * Policy analysis
 * Econometrics
 * Coding
@@ -38,6 +39,9 @@ Skills
   * SAS
   * Fortran
   * LaTex
+  * SQL
+  * GIS
+  * NetLogo
 * Writing, editing, and communication
 
 
