@@ -14,7 +14,7 @@ Education
 * B.A. in Economics, University of Rochester, 2012
 * B.A. in French, University of Rochester, 2012
 * M.A. in Economics, American University, 2018
-* Ph.D in Economics, American University, 2021 (expected)
+* Ph.D in Economics, American University, 2022 (anticipated)
 
 
 Work experience
